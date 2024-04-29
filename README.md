@@ -58,4 +58,4 @@ OpenCV is widely used in various fields, including robotics, augmented reality, 
 OUTPUT:
 ![WhatsApp Image 2024-04-29 at 1 57 30 PM](https://github.com/AniketVanja10/Capstone-Project/assets/112512124/607d89fb-58a3-4c0d-9f0f-53566d06ceee)
 
-
+![WhatsApp Image 2024-04-29 at 1 57 50 PM](https://github.com/AniketVanja10/Capstone-Project/assets/112512124/c7c49b06-6b73-402f-b5e5-0d95235c3d2f)
