@@ -61,4 +61,4 @@ OUTPUT:
 ![WhatsApp Image 2024-04-29 at 1 57 50 PM](https://github.com/AniketVanja10/Capstone-Project/assets/112512124/c7c49b06-6b73-402f-b5e5-0d95235c3d2f)   
 
 Sprint screenshot:
-
+<img width="1438" alt="Screenshot 2024-04-29 at 2 30 08 PM" src="https://github.com/AniketVanja10/Capstone-Project/assets/112512124/9b6d04dc-69a9-4a26-9530-5f675dda014c">
